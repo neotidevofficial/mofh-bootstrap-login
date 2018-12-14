@@ -18,4 +18,4 @@ Copyright (C) 2018 NeotiDev. All Rights Reserved.
 
 
 If you see any errors, please create a PR.
-For any additional support, please join our Discord Server.
+For any additional support, please join our [Discord Server](https://discord.gg/e5rXfH).
