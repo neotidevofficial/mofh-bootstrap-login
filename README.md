@@ -4,11 +4,11 @@ Bootstrap login and signup templates for MyOwnFreeHost
 ## How to install and configure?
 To install it, just [download the project](https://github.com/NeotiDev/mofh-bootstrap-login/archive/master.zip) and copy the files of the theme you want to use in the directory of your site.  
 
-Use the comments within index.html to configure the template for your MOFH website.
+Use the comments within the HTML files to configure the template for your MOFH website.
 
 ## Templates
-1. [Dark](/Dark) (Purple and White Colors)
-2. [Light](/Light) (CYGO NerdAesthetic Colors)
+1. [Dark](Dark) (Purple and White Colors)
+2. [Light](Light) (CYGO [NerdAesthetic](https://github.com/CYGOnetwork/nerd-aesthetic) Colors)
 
 ## Copyright Info
 
