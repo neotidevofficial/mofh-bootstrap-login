@@ -27,9 +27,15 @@
               <!-- Change "Login" below to your desired heading-->
                 <h4 style="color:rgb(254,254,254);">Login</h4>
             </div>
+<<<<<<< HEAD:Dark/login.php
       <!-- BEGIN MOFH API, BE CAREFUL WHEN EDITING-->
 			<!-- Replace neoti_ with your reseller's placeholder-->
            <div class="form-group"><input class="form-control" type="text" id="mod_login_username" name="uname" placeholder="neoti_"></div>
+=======
+			<!-- BEGIN MOFH API CONTENT, BE CAREFUL WHEN EDITING-->
+		<!--Replace "neotidev_" bellow with your reseller account prefix-->
+            <div class="form-group"><input class="form-control" type="text" id="mod_login_username" name="uname" placeholder="neotidev_"></div>
+>>>>>>> origin/master:Dark/index.html
             <div class="form-group"><input class="form-control" type="password" id="mod_login_password" name="passwd" placeholder="Password"></div>
             <div class="form-group"><button class="btn btn-primary btn-block" type="submit" value="Login" style="background-color:rgb(126,11,180);">Log In</button></div><a href="signup.php" class="forgot">Don't have an account yet?</a><br><a href="https://cpanel.<?echo $yourdomain;?>/lostpassword.php" class="forgot">Forgot your password?</a></form>
 			<!--END MOFH API CONTENT, it is now safe to edit-->
