@@ -27,9 +27,6 @@
               <!-- Change "Login" below to your desired heading-->
                 <h4 style="color:rgb(254,254,254);">Login</h4>
             </div>
-      <!-- BEGIN MOFH API, BE CAREFUL WHEN EDITING-->
-			<!-- Replace neoti_ with your reseller's placeholder-->
-           <div class="form-group"><input class="form-control" type="text" id="mod_login_username" name="uname" placeholder="neoti_"></div>
 			<!-- BEGIN MOFH API CONTENT, BE CAREFUL WHEN EDITING-->
 		<!--Replace "neotidev_" bellow with your reseller account prefix-->
             <div class="form-group"><input class="form-control" type="text" id="mod_login_username" name="uname" placeholder="neotidev_"></div>
