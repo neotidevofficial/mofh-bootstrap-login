@@ -11,8 +11,8 @@ Use the comments within the PHP files to configure the template for your MOFH we
 2. [Light](Light) (CYGO [NerdAesthetic](https://github.com/CYGOnetwork/nerd-aesthetic) Colors)
 
 ## Live preview
-You can now preview live templates [here](http://neotidev.loganljohnson.ml/mofhbootstraplogin)
-Templates previews are not synched with the Github repository, so, please check the date on the page below the preview links
+You can now preview live templates [here](http://neotidev.loganljohnson.ml/mofhbootstraplogin).
+Template previews are not synched with the Github repository, so, please check the date on the page below the preview links
 
 ## Copyright Info
 
