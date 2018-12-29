@@ -14,6 +14,10 @@ Use the comments within the PHP files to configure the template for your MOFH we
 You can now preview live templates [here](https://neotidev.com/mofhbootstraplogin).
 Template previews are not synched with the Github repository, so, please check the date on the page below the preview links
 
+## Video installation tutorial
+We now have a video tutorial available, detailing a custom installation of 
+MOFH Bootstrap Login [here](https://invidio.us/watch?v=TbWDAxvIh54).
+
 ## Copyright Info
 
 Copyright (C) 2018 NeotiDev. All Rights Reserved.
