@@ -44,7 +44,7 @@
             </div>
 			<!-- BEGIN MOFH API, BE CAREFUL WHEN EDITING-->
 			<!-- Replace neotidev_ with your reseller's placeholder-->
-           <div class="form-group"><input class="form-control" type="text" id="mod_login_username" name="uname" placeholder="neotidev_"></div>
+           <div class="form-group"><input class="form-control" type="text" id="mod_login_username" name="uname" placeholder="neoti_"></div>
             <div class="form-group"><input class="form-control" type="password" id="mod_login_password" name="passwd" placeholder="Password"></div>
             <div class="form-group"><button class="btn btn-primary btn-block" type="submit" value="Login" style="background-color:rgb(9,124,94);">Log
               In</button></div><a href="signup.php" class="forgot">Don't have an account yet?</a><br><a href="https://cpanel.<?echo $yourdomain;?>/lostpassword.php" class="forgot">Forgot your password?</a></form>
