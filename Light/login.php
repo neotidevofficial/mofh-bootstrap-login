@@ -45,10 +45,11 @@
                 The fields must be properly formatted in order for it to work.
                 Proper formatting can be found at : http://panel.myownfreehost.net/panel/index2.php?option=remotelogin
 
-                Please replace the value for input with name "uname" from "neotidev_" to your reseller's placeholder
+                Please replace the username value "neoti" with your reseller prefix from "neotidev_" to 
+                your reseller's placeholder
                 -->
                 <div class="form-group">
-                    <input class="form-control" type="text" name="uname" placeholder="Username" value="neotidev_">
+                    <input class="form-control" type="text" name="uname" placeholder="Username" value="neoti_">
                 </div>
                 <div class="form-group">
                     <input class="form-control" type="password" name="passwd" placeholder="Password">
