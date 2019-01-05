@@ -2,7 +2,7 @@
 Bootstrap login and signup templates for MyOwnFreeHost  
 
 ## How to install and configure?
-To install it, just [download the project](https://github.com/NeotiDev/mofh-bootstrap-login/archive/master.zip) and copy the files of the theme you want to use in the directory of your site.  
+To install it, just [download the archive](https://github.com/NeotiDev/mofh-bootstrap-login/archive/master.zip) and copy the files of the theme you want to use in the directory of your site.  
 
 Use the comments within the PHP files to configure the template for your MOFH website.
 
@@ -20,10 +20,9 @@ MOFH Bootstrap Login [here](https://invidio.us/watch?v=TbWDAxvIh54).
 
 ## Copyright Info
 
-Copyright (C) 2018 NeotiDev. All Rights Reserved.
+Copyright (C) 2018 NeotiDev and it's affiliates. All Rights Reserved.
 
 [![Licensed under the GPL-3.0](https://img.shields.io/github/license/NeotiDev/mofh-bootstrap-login.svg?style=for-the-badge)](https://github.com/NeotiDev/mofh-bootstrap-login/blob/master/LICENSE)
-
 
 If you see any errors, please create a PR.
 For any additional support, please join our [Discord Server](https://discord.gg/NqMA6xC).
