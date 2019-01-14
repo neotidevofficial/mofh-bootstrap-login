@@ -1,4 +1,4 @@
-# MOFH Boostrap Login Templates
+# MOFH Bootstrap Login Templates
 Bootstrap login and signup templates for MyOwnFreeHost  
 
 ## How to install and configure?
