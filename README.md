@@ -9,7 +9,7 @@ Use the comments within the PHP files to configure the template for your MOFH we
 ## Templates
 1. [Dark](Dark) (Purple and White Colors)
 2. [Light](Light) (CYGO [NerdAesthetic](https://github.com/CYGOnetwork/nerd-aesthetic) Colors)
-3. [Whimsy Light](Whimsy Light) (Blue and grey colors, animated header)
+3. [Whimsy Light](https://github.com/NeotiDev/mofh-bootstrap-login/blob/master/Whimsy Light) (Blue and grey colors, animated header)
 
 ## Live preview
 You can now preview live templates [here](https://neotidev.com/mofhbootstraplogin).
