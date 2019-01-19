@@ -21,7 +21,7 @@ MOFH Bootstrap Login [here](https://invidio.us/watch?v=TbWDAxvIh54).
 
 ## Copyright Info
 
-Copyright (C) 2018 NeotiDev and it's affiliates. All Rights Reserved.
+Copyright © 2019 NeotiDev and it's affiliates. All Rights Reserved.
 
 [![Licensed under the GPL-3.0](https://img.shields.io/github/license/NeotiDev/mofh-bootstrap-login.svg?style=for-the-badge)](https://github.com/NeotiDev/mofh-bootstrap-login/blob/master/LICENSE)
 
