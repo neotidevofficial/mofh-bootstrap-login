@@ -12,7 +12,7 @@ Use the comments within the PHP files to configure the template for your MOFH we
 3. [Whimsy Light](https://github.com/NeotiDev/mofh-bootstrap-login/tree/master/Whimsy%20Light) (Blue and grey colors, animated header)
 
 ## Live preview
-There isn't any live previews right now.
+Live Previews are coming soon...
 
 ## Video installation tutorial
 We now have a video tutorial available, detailing a custom installation of 
