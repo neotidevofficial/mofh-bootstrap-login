@@ -25,4 +25,4 @@ Copyright © 2019 NeotiDev and it's affiliates. All Rights Reserved.
 [![Licensed under the GPL-3.0](https://img.shields.io/github/license/NeotiDev/mofh-bootstrap-login.svg?style=for-the-badge)](https://github.com/NeotiDev/mofh-bootstrap-login/blob/master/LICENSE)
 
 If you see any errors, please create a PR.
-For any additional support, please join our [Discord Server](https://discord.gg/NqMA6xC).
+For any additional support, please join our [Discord Server](https://neotidev.com).
